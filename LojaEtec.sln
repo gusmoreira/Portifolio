@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaEtec", "LojaDeUniforme\LojaEtec.csproj", "{A9DF1E1D-E682-4E1F-B011-22EA7B6785A8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador\Instalador.vdproj", "{24CEA554-C814-4E5B-B375-1216714F3CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DF1E1D-E682-4E1F-B011-22EA7B6785A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DF1E1D-E682-4E1F-B011-22EA7B6785A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DF1E1D-E682-4E1F-B011-22EA7B6785A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DF1E1D-E682-4E1F-B011-22EA7B6785A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CEA554-C814-4E5B-B375-1216714F3CD1}.Debug|Any CPU.ActiveCfg = Debug
+		{24CEA554-C814-4E5B-B375-1216714F3CD1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90DED20-9A18-4C98-AECE-69268A82D817}
+	EndGlobalSection
+EndGlobal
